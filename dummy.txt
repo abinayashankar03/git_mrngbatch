@@ -1,1 +1,2 @@
 Git is a version control software
+git helps to syncronize the code
